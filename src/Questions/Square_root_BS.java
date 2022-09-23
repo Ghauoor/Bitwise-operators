@@ -5,7 +5,7 @@ public class Square_root_BS {
         int n = 40;
         int p = 3;
 
-        System.out.println(sqrt(n, p));
+        System.out.printf("%.3f",sqrt(n, p));
     }
     static double sqrt(int n, int p){
         int s = 0;
