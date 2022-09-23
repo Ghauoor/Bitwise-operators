@@ -3,7 +3,6 @@ package Questions;
 public class Newton_SQRT {
     public static void main(String[] args) {
         System.out.printf("%.3f",sqrt(40));
-
     }
     static double sqrt(double n){
         double x = n;
